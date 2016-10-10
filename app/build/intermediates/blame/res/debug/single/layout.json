@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_menu_selection_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_menu_selection_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_pick_up_time_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_pick_up_time_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_confirmation_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_confirmation_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_order_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_order_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/fragment_landing_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/fragment_landing_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_payment_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_payment_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_vendor_landing_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_vendor_landing_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_restaurants_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_restaurants_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/fragment_food_line_login_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/fragment_food_line_login_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_landing_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_landing_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_sign_up_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_sign_up_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_food_line_login_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_food_line_login_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/fragment_app_name_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/fragment_app_name_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/fragment_sign_up_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/fragment_sign_up_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_app_name_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_app_name_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_menu_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_menu_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/fragment_confirmation_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/fragment_confirmation_page.xml"
+    },
+    {
+        "merged": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/merged/debug/layout/activity_pick_up_time_slot_page.xml",
+        "source": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/layout/activity_pick_up_time_slot_page.xml"
+    }
+]

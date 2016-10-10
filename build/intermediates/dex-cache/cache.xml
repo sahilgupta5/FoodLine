@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72243686a2c767310315bc1e4cabb6f089c29bcc">
+        <dex dex="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0696ac5a17ae340199c9a2282ab18b7cb1d0c566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sahilgupta/StudioProjects/FoodLine/app/libs/PayPalAndroidSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c826d32d47ffa1ed9c0dce20c66e4bf073699be3">
+        <dex dex="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/transforms/dex/debug/folders/1000/2/PayPalAndroidSDK_450971e874759f402d6ee43a718f3ff3f651ec0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0500c07955bcd49f30182026c5cfb613421432f">
+        <dex dex="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3384615cbefcf7cf608c1873262ee1d942fcf308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sahilgupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_6e2aa15e2eecaa3e479d31340e9f74f90d0ff10b/classes.dex" />
+    </item>
+
+</items>

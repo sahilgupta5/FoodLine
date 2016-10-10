@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_skin4"
+    tools:context="com.foodline.controller.PickUpTimeSlotPage"
+    tools:ignore="MergeRootFrame" >
+
+    <TextView
+        android:id="@+id/textView1_9b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.foodline.controller.MenuSelectionPage"
+        tools:ignore="MergeRootFrame" >
+
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,640 @@
+[
+    {
+        "outputFile": "/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 71,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 85,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 172,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 44,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 65,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 92,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 95,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 71,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 94,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 71,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 51,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endColumn": 50,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 71,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 91,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 71,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 60,
+                    "endOffset": 1487
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1492,
+                    "endColumn": 61,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 94,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 64,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 60,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 59,
+                    "endOffset": 1830
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1835,
+                    "endColumn": 50,
+                    "endOffset": 1881
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1886,
+                    "endColumn": 61,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 64,
+                    "endOffset": 2008
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2013,
+                    "endColumn": 57,
+                    "endOffset": 2066
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2071,
+                    "endColumn": 57,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endColumn": 63,
+                    "endOffset": 2188
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2193,
+                    "endColumn": 63,
+                    "endOffset": 2252
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2257,
+                    "endColumn": 58,
+                    "endOffset": 2311
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2316,
+                    "endColumn": 51,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 76,
+                    "endOffset": 2440
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2445,
+                    "endColumn": 76,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 88,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 52,
+                    "endOffset": 2570
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2575,
+                    "endColumn": 50,
+                    "endOffset": 2621
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2626,
+                    "endColumn": 146,
+                    "endOffset": 2768
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2773,
+                    "endColumn": 92,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endColumn": 82,
+                    "endOffset": 2944
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2949,
+                    "endColumn": 73,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 62,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 57,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 67,
+                    "endOffset": 3207
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3212,
+                    "endColumn": 70,
+                    "endOffset": 3278
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3283,
+                    "endColumn": 57,
+                    "endOffset": 3336
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3341,
+                    "endColumn": 66,
+                    "endOffset": 3403
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3408,
+                    "endColumn": 66,
+                    "endOffset": 3470
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3475,
+                    "endColumn": 71,
+                    "endOffset": 3542
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3547,
+                    "endColumn": 56,
+                    "endOffset": 3599
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3604,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3682
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3687,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3754
+                },
+                "from": {
+                    "file": "/Users/sahilgupta/StudioProjects/FoodLine/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

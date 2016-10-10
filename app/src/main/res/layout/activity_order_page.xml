@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_skin8"
+    android:orientation="vertical"
+    tools:context="com.foodline.controller.OrderPage"
+    tools:ignore="MergeRootFrame" >
+
+    <Button
+        android:id="@+id/button1_7b"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/alert_dark_frame"
+        android:onClick="onAddMenuItem"
+        android:text="@string/add_more_items_button_page_7"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/button2_7b"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/alert_dark_frame"
+        android:onClick="onFinalizeOrder"
+        android:text="@string/finalize_order_button_page_7"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/textView1_7b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:text="@string/click_on_item_to_remove_text_view_page_7"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray"
+        android:longClickable="true"
+        tools:context="com.foodline.controller.MenuPage"
+        tools:ignore="MergeRootFrame" >
+    </ListView>
+
+</LinearLayout>

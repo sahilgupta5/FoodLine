@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="add_more_items_button_page_7">Add More Items</string>
+    <string name="agreement_text_view_3">I agree to the terms and conditions</string>
+    <string name="agreement_warning_page_3">You have to accept our terms and conditions. We are not liable for any action performed by end user in the application.</string>
+    <string name="app_name">FeedMee</string>
+    <string name="app_welcome_string">Welcome To FeedMee</string>
+    <string name="check_pick_up_time_button_page_8">Check Pick Up Time Availability</string>
+    <string name="click_on_item_to_remove_text_view_page_7">Click on an Item to Remove</string>
+    <string name="comment_text_field_payment_page_10">Comments</string>
+    <string name="current_order_text_field_payment_page_10">Current Order Description</string>
+    <string name="email_hint_edit_text_3">john.smith@gmail.com</string>
+    <string name="email_text_view_2">Email</string>
+    <string name="email_textview_3">Email</string>
+    <string name="facebook_login_button_1">Login with Facebook</string>
+    <string name="final_order_text_field__confirmation_page_11">Final Confirmation</string>
+    <string name="finalize_order_button_page_7">Finalize Order</string>
+    <string name="first_name_hint_edit_text_3">John</string>
+    <string name="first_name_text_view_3">First Name</string>
+    <string name="is_pick_up_time_available">Click Button Below to Check Availability</string>
+    <string name="landing_welcome_1">Welcome to FeedMee</string>
+    <string name="last_name_hint_edit_text_3">Smith</string>
+    <string name="last_name_text_view_3">Last Name</string>
+    <string name="log_in_button_2">Log In</string>
+    <string name="login_button_1">Login with FeedMee</string>
+    <string name="menu_name_text_view_page_6">Menu Name</string>
+    <string name="password_text_view_2">Password</string>
+    <string name="password_text_view_3">Password</string>
+    <string name="payment_button_page_10">Press to Pay</string>
+    <string name="phone_hint_edit_text_3">123.456.7890</string>
+    <string name="phone_text_view_3">Phone Number</string>
+    <string name="photo_text_view_3">Photo</string>
+    <string name="select_pick_up_time_page_8">Select a Pick Up Time</string>
+    <string name="server_domain_name">www.mobile.restaurantier.info</string>
+    <string name="sign_up_button_1">Sign Up</string>
+    <string name="submit_button_3">Submit</string>
+    <string name="time_slot_text_view_page_8">Slot you chose is currently overbooked. Below are the time slots that seem to be available.</string>
+    <string name="title_activity_pick_up_time_slot_page_9">Pick Different Time Slot</string>
+    <string name="title_activity_vendor_landing_page">Vendor Landing Page</string>
+    <string name="title_confirmation_page_11">Final Confirmation</string>
+    <string name="title_landing_page_1">Login Options</string>
+    <string name="title_login_page_2">Login Page</string>
+    <string name="title_menu_page_6">Choose Items to Order</string>
+    <string name="title_menu_selection_page_5">Menu Selection</string>
+    <string name="title_order_page_7">Order Page</string>
+    <string name="title_payment_page_10">Pay Using Paypal</string>
+    <string name="title_pick_up_time_page_8">Pick Up Time</string>
+    <string name="title_restaurants_page_4">Choose Restaurants</string>
+    <string name="title_sign_up_page_3">Sign Up</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

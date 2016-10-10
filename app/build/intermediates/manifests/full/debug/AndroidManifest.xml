@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.foodline.controller"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.foodline.controller.AppNamePage"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.foodline.controller.LandingPage"
+            android:label="@string/title_landing_page_1" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.AppNamePage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.LoginPage"
+            android:label="@string/title_login_page_2"
+            android:parentActivityName="com.foodline.controller.LandingPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.LandingPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.SignUpPage"
+            android:label="@string/title_sign_up_page_3"
+            android:parentActivityName="com.foodline.controller.LandingPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.LandingPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.RestaurantsPage"
+            android:label="@string/title_restaurants_page_4"
+            android:parentActivityName="com.foodline.controller.LoginPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.FoodLineLoginPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.MenuSelectionPage"
+            android:label="@string/title_menu_selection_page_5"
+            android:parentActivityName="com.foodline.controller.RestaurantsPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.RestaurantsPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.MenuPage"
+            android:label="@string/title_menu_page_6"
+            android:parentActivityName="com.foodline.controller.MenuSelectionPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.MenuSelectionPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.OrderPage"
+            android:label="@string/title_order_page_7"
+            android:parentActivityName="com.foodline.controller.MenuPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.MenuPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.PickUpTimePage"
+            android:label="@string/title_pick_up_time_page_8"
+            android:parentActivityName="com.foodline.controller.OrderPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.OrderPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.PaymentFoodLinePage"
+            android:label="@string/title_pick_up_time_page_8"
+            android:parentActivityName="com.foodline.controller.PickUpTimePage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.PickUpTimePage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.PickUpTimeSlotPage"
+            android:label="@string/title_activity_pick_up_time_slot_page_9"
+            android:parentActivityName="com.foodline.controller.PickUpTimePage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.PickUpTimePage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.VendorLandingPage"
+            android:label="@string/title_activity_vendor_landing_page"
+            android:parentActivityName="com.foodline.controller.LoginPage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.LoginPage" />
+        </activity>
+        <activity
+            android:name="com.foodline.controller.ConfirmationPage"
+            android:label="@string/title_confirmation_page_11"
+            android:parentActivityName="com.foodline.controller.PaymentFoodLinePage" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.foodline.controller.PaymentFoodLinePage" />
+        </activity>
+    </application>
+
+</manifest>

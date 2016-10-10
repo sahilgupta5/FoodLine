@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:2:1-125:12
+	package
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:8:22-76
+uses-sdk
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:14:5-123:19
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.foodline.controller.AppNamePage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:20:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.foodline.controller.LandingPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:30:13-57
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:29:13-63
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:31:13-33:71
+	android:value
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:32:17-63
+activity#com.foodline.controller.LoginPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:37:13-55
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:38:13-77
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:36:13-61
+activity#com.foodline.controller.SignUpPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:43:9-50:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:45:13-57
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:44:13-62
+activity#com.foodline.controller.RestaurantsPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:51:9-58:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:53:13-61
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:54:13-75
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:52:13-67
+activity#com.foodline.controller.MenuSelectionPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:59:9-66:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:61:13-64
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:62:13-81
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:60:13-69
+activity#com.foodline.controller.MenuPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:67:9-74:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:69:13-54
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:70:13-83
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:68:13-60
+activity#com.foodline.controller.OrderPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:75:9-82:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:77:13-55
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:78:13-74
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:76:13-61
+activity#com.foodline.controller.PickUpTimePage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:83:9-90:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:85:13-62
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:86:13-75
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:84:13-66
+activity#com.foodline.controller.PaymentFoodLinePage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:91:9-98:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:93:13-62
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:94:13-80
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:92:13-71
+activity#com.foodline.controller.PickUpTimeSlotPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:99:9-106:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:101:13-76
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:102:13-80
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:100:13-70
+activity#com.foodline.controller.VendorLandingPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:107:9-114:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:109:13-71
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:110:13-75
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:108:13-69
+activity#com.foodline.controller.ConfirmationPage
+ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:115:9-122:20
+	android:label
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:117:13-63
+	android:parentActivityName
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:118:13-85
+	android:name
+		ADDED from /Users/sahilgupta/StudioProjects/FoodLine/app/src/main/AndroidManifest.xml:116:13-68
