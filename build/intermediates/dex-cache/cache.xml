@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="72243686a2c767310315bc1e4cabb6f089c29bcc">
+        sha1="55f26d45d9d39b4d4c0a99a9d8d4e0e4e74cf8ad">
         <dex dex="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0696ac5a17ae340199c9a2282ab18b7cb1d0c566/classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d0500c07955bcd49f30182026c5cfb613421432f">
+        sha1="308f156cda4b4fd9fdedf0f4b258c4a85b67ecdf">
         <dex dex="/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3384615cbefcf7cf608c1873262ee1d942fcf308/classes.dex" />
     </item>
     <item

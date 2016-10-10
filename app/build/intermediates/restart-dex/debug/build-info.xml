@@ -4,29 +4,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="101626581963254"
+    timestamp="127778076472538"
     token="-8668643923083262220"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1567" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="381" />
     <task
         name="verifier"
-        duration="0" />
+        duration="32" />
 
     <artifact
         location="/Users/sahilgupta/StudioProjects/FoodLine/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="101626581963254"
+        timestamp="127778076472538"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/sahilgupta/StudioProjects/FoodLine/app/build/outputs/apk/app-debug.apk"

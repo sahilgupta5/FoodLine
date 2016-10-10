@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 09 15:42:48 EDT 2016
+#Mon Oct 10 01:17:53 EDT 2016
 5.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
 42.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
 32.set=ANDROID_RESOURCE
@@ -35,7 +35,7 @@
 19.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_app_name_page.xml
 2.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
 29.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/menu_selection_page.xml
-11.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/background_skin6.jpg
+11.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/order_page.xml
 39.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_confirmation_page.xml
 6.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
 43.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
@@ -64,7 +64,7 @@ count=48
 7.set=ANDROID_RESOURCE
 45.set=ANDROID_RESOURCE
 22.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/menu_page.xml
-32.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/payment_page.xml
+32.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/app_name_page.xml
 34.set=ANDROID_RESOURCE
 26.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/pick_up_time_slot_page.xml
 23.set=ANDROID_RESOURCE
@@ -97,7 +97,7 @@ count=48
 14.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
 47.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/restaurants_page.xml
 23.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/taco_bell_logo.jpg
-33.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/app_name_page.xml
+33.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/payment_page.xml
 6.set=ANDROID_RESOURCE
 17.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/star_bucks_logo.jpeg
 0.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
@@ -141,7 +141,7 @@ count=48
 18.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_menu_selection_page.xml
 1.base=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_
 28.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_pick_up_time_page.xml
-10.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/menu/order_page.xml
+10.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/background_skin6.jpg
 5.set=ANDROID_RESOURCE
 38.file=/Users/sahilgupta/StudioProjects/FoodLine/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_confirmation_page.xml
 43.set=ANDROID_RESOURCE
